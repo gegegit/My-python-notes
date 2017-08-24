@@ -4,7 +4,7 @@ Full of notes gotten on work
 Notes of Good Good Study Day Day Up
 
 有关GitHub:
-GitHub使用教程
+GitHub使用教程(tag: step 4)
 https://guides.github.com/activities/hello-world/
 GitHub:
 https://github.com
